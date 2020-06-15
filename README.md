@@ -1,2 +1,0 @@
-# Fatgram
-Fatgram landing page
